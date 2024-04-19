@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from camera_oneday_msgs/srv/Capture.srv
+// generated code does not contain a copyright notice
+
+
+module camera_oneday_msgs {
+  module srv {
+    struct Capture_Request {
+      string topic_name;
+    };
+    struct Capture_Response {
+      string file_path;
+    };
+  };
+};

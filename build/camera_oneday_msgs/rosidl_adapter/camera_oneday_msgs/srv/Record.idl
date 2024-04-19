@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from camera_oneday_msgs/srv/Record.srv
+// generated code does not contain a copyright notice
+
+
+module camera_oneday_msgs {
+  module srv {
+    struct Record_Request {
+      boolean start;
+
+      string topic_name;
+    };
+    struct Record_Response {
+      string file_path;
+    };
+  };
+};

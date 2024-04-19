@@ -1,0 +1,9 @@
+setup.py
+camera_oneday_msgs/__init__.py
+camera_oneday_msgs.egg-info/PKG-INFO
+camera_oneday_msgs.egg-info/SOURCES.txt
+camera_oneday_msgs.egg-info/dependency_links.txt
+camera_oneday_msgs.egg-info/top_level.txt
+camera_oneday_msgs/srv/__init__.py
+camera_oneday_msgs/srv/_capture.py
+camera_oneday_msgs/srv/_record.py

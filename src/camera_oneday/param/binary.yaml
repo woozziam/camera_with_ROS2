@@ -1,0 +1,4 @@
+binary_publisher:
+  ros__parameters:
+    thresh: 150
+    maxval: 255

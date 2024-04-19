@@ -1,0 +1,14 @@
+[console_scripts]
+binary_publisher = camera_oneday.binary_publisher:main
+blue_publisher = camera_oneday.blue_publisher:main
+blur_publisher = camera_oneday.blur_publisher:main
+camera_server = camera_oneday.camera_server:main
+canny_publisher = camera_oneday.canny_publisher:main
+cartoon_publisher = camera_oneday.cartoon_publisher:main
+combined_publisher = camera_oneday.combined_publisher:main
+control_publisher = camera_oneday.control_publisher:main
+edge_publisher = camera_oneday.edge_publisher:main
+green_publisher = camera_oneday.green_publisher:main
+img_publisher = camera_oneday.img_publisher:main
+optical_publisher = camera_oneday.optical_publisher:main
+red_publisher = camera_oneday.red_publisher:main

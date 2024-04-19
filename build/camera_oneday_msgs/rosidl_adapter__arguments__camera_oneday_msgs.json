@@ -1,0 +1,7 @@
+{
+  "package_name": "camera_oneday_msgs",
+  "non_idl_tuples": [
+    "/home/wook/amr_ws/camera_with_ROS2/src/camera_oneday_msgs:srv/Capture.srv",
+    "/home/wook/amr_ws/camera_with_ROS2/src/camera_oneday_msgs:srv/Record.srv"
+  ]
+}

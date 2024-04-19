@@ -1,0 +1,64 @@
+[0.144s] Invoking command in '/home/wook/amr_ws/camera_with_ROS2/build/camera_oneday_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wook/amr_ws/camera_with_ROS2/install/opencv_tutorials:/home/wook/dev_ws/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --build /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday_msgs -- -j8 -l8
+[0.172s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[0.179s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[0.186s] [  5%] Built target ament_cmake_python_copy_camera_oneday_msgs
+[0.345s] running egg_info
+[0.346s] creating camera_oneday_msgs.egg-info
+[0.363s] writing camera_oneday_msgs.egg-info/PKG-INFO
+[0.363s] writing dependency_links to camera_oneday_msgs.egg-info/dependency_links.txt
+[0.363s] writing top-level names to camera_oneday_msgs.egg-info/top_level.txt
+[0.363s] writing manifest file 'camera_oneday_msgs.egg-info/SOURCES.txt'
+[0.406s] reading manifest file 'camera_oneday_msgs.egg-info/SOURCES.txt'
+[0.406s] writing manifest file 'camera_oneday_msgs.egg-info/SOURCES.txt'
+[0.413s] [  5%] Built target camera_oneday_msgs__cpp
+[0.427s] [ 10%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[0.427s] [ 12%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[0.427s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[0.436s] [ 12%] Built target ament_cmake_python_build_camera_oneday_msgs_egg
+[0.462s] [ 15%] [32mBuilding C object CMakeFiles/camera_oneday_msgs__rosidl_generator_c.dir/rosidl_generator_c/camera_oneday_msgs/srv/detail/capture__functions.c.o[0m
+[0.465s] [ 17%] [32mBuilding C object CMakeFiles/camera_oneday_msgs__rosidl_generator_c.dir/rosidl_generator_c/camera_oneday_msgs/srv/detail/record__functions.c.o[0m
+[0.538s] [ 20%] [32m[1mLinking C shared library libcamera_oneday_msgs__rosidl_generator_c.so[0m
+[0.597s] [ 20%] Built target camera_oneday_msgs__rosidl_generator_c
+[0.614s] [ 23%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[0.626s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[0.626s] [ 28%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[0.765s] [ 33%] [32mBuilding CXX object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/camera_oneday_msgs/srv/capture__type_support.cpp.o[0m
+[0.766s] [ 33%] [32mBuilding CXX object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/camera_oneday_msgs/srv/record__type_support.cpp.o[0m
+[0.783s] [ 35%] [32mBuilding CXX object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/camera_oneday_msgs/srv/detail/capture__type_support.cpp.o[0m
+[0.784s] [ 38%] [32mBuilding CXX object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/camera_oneday_msgs/srv/detail/record__type_support.cpp.o[0m
+[0.861s] [ 41%] [32mBuilding CXX object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/camera_oneday_msgs/srv/detail/dds_fastrtps/capture__type_support.cpp.o[0m
+[0.950s] [ 43%] [32mBuilding CXX object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/camera_oneday_msgs/srv/capture__type_support.cpp.o[0m
+[0.983s] [ 46%] [32mBuilding C object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/camera_oneday_msgs/srv/detail/capture__type_support.c.o[0m
+[1.015s] [ 48%] [32mBuilding CXX object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/camera_oneday_msgs/srv/record__type_support.cpp.o[0m
+[1.049s] [ 51%] [32mBuilding C object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/camera_oneday_msgs/srv/detail/record__type_support.c.o[0m
+[1.058s] [ 53%] [32m[1mLinking CXX shared library libcamera_oneday_msgs__rosidl_typesupport_c.so[0m
+[1.068s] [ 56%] [32mBuilding CXX object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/camera_oneday_msgs/srv/detail/capture__type_support_c.cpp.o[0m
+[1.096s] [ 58%] [32mBuilding CXX object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/camera_oneday_msgs/srv/detail/record__type_support_c.cpp.o[0m
+[1.102s] [ 61%] [32m[1mLinking C shared library libcamera_oneday_msgs__rosidl_typesupport_introspection_c.so[0m
+[1.104s] [ 64%] [32m[1mLinking CXX shared library libcamera_oneday_msgs__rosidl_typesupport_cpp.so[0m
+[1.154s] [ 64%] Built target camera_oneday_msgs__rosidl_typesupport_c
+[1.161s] [ 64%] Built target camera_oneday_msgs__rosidl_typesupport_introspection_c
+[1.165s] [ 66%] [32mBuilding CXX object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/camera_oneday_msgs/srv/detail/dds_fastrtps/record__type_support.cpp.o[0m
+[1.166s] [ 66%] Built target camera_oneday_msgs__rosidl_typesupport_cpp
+[1.256s] [ 69%] [32m[1mLinking CXX shared library libcamera_oneday_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[1.301s] [ 69%] Built target camera_oneday_msgs__rosidl_typesupport_introspection_cpp
+[1.467s] [ 71%] [32m[1mLinking CXX shared library libcamera_oneday_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[1.518s] [ 71%] Built target camera_oneday_msgs__rosidl_typesupport_fastrtps_c
+[1.549s] [ 74%] [32m[1mLinking CXX shared library libcamera_oneday_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[1.595s] [ 74%] Built target camera_oneday_msgs__rosidl_typesupport_fastrtps_cpp
+[1.610s] [ 74%] Built target camera_oneday_msgs
+[1.626s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[1.932s] [ 76%] Built target camera_oneday_msgs__py
+[1.949s] [ 79%] [32mBuilding C object CMakeFiles/camera_oneday_msgs__rosidl_generator_py.dir/rosidl_generator_py/camera_oneday_msgs/srv/_record_s.c.o[0m
+[1.949s] [ 82%] [32mBuilding C object CMakeFiles/camera_oneday_msgs__rosidl_generator_py.dir/rosidl_generator_py/camera_oneday_msgs/srv/_capture_s.c.o[0m
+[2.054s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/camera_oneday_msgs/libcamera_oneday_msgs__rosidl_generator_py.so[0m
+[2.083s] [ 84%] Built target camera_oneday_msgs__rosidl_generator_py
+[2.098s] [ 87%] [32mBuilding C object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/camera_oneday_msgs/_camera_oneday_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[2.100s] [ 92%] [32mBuilding C object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/camera_oneday_msgs/_camera_oneday_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[2.100s] [ 92%] [32mBuilding C object CMakeFiles/camera_oneday_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/camera_oneday_msgs/_camera_oneday_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[2.164s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[2.166s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[2.167s] [100%] [32m[1mLinking C shared library rosidl_generator_py/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[2.188s] [100%] Built target camera_oneday_msgs__rosidl_typesupport_c__pyext
+[2.190s] [100%] Built target camera_oneday_msgs__rosidl_typesupport_introspection_c__pyext
+[2.190s] [100%] Built target camera_oneday_msgs__rosidl_typesupport_fastrtps_c__pyext

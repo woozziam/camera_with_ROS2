@@ -1,0 +1,191 @@
+[35m[1mConsolidate compiler generated dependencies of target camera_oneday_msgs__rosidl_generator_c[0m
+[  2%] Built target camera_oneday_msgs__cpp
+[ 12%] Built target camera_oneday_msgs__rosidl_generator_c
+[ 12%] Built target ament_cmake_python_copy_camera_oneday_msgs
+[35m[1mConsolidate compiler generated dependencies of target camera_oneday_msgs__rosidl_typesupport_introspection_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target camera_oneday_msgs__rosidl_typesupport_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target camera_oneday_msgs__rosidl_typesupport_fastrtps_c[0m
+[35m[1mConsolidate compiler generated dependencies of target camera_oneday_msgs__rosidl_typesupport_introspection_c[0m
+[35m[1mConsolidate compiler generated dependencies of target camera_oneday_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target camera_oneday_msgs__rosidl_typesupport_c[0m
+[ 33%] Built target camera_oneday_msgs__rosidl_typesupport_introspection_cpp
+[ 33%] Built target camera_oneday_msgs__rosidl_typesupport_introspection_c
+[ 43%] Built target camera_oneday_msgs__rosidl_typesupport_c
+[ 53%] Built target camera_oneday_msgs__rosidl_typesupport_cpp
+[ 64%] Built target camera_oneday_msgs__rosidl_typesupport_fastrtps_c
+[ 74%] Built target camera_oneday_msgs__rosidl_typesupport_fastrtps_cpp
+[ 74%] Built target camera_oneday_msgs
+[ 76%] Built target camera_oneday_msgs__py
+[35m[1mConsolidate compiler generated dependencies of target camera_oneday_msgs__rosidl_generator_py[0m
+[ 84%] Built target camera_oneday_msgs__rosidl_generator_py
+[35m[1mConsolidate compiler generated dependencies of target camera_oneday_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[35m[1mConsolidate compiler generated dependencies of target camera_oneday_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[35m[1mConsolidate compiler generated dependencies of target camera_oneday_msgs__rosidl_typesupport_c__pyext[0m
+[ 89%] Built target camera_oneday_msgs__rosidl_typesupport_fastrtps_c__pyext
+[ 94%] Built target camera_oneday_msgs__rosidl_typesupport_c__pyext
+[100%] Built target camera_oneday_msgs__rosidl_typesupport_introspection_c__pyext
+running egg_info
+writing camera_oneday_msgs.egg-info/PKG-INFO
+writing dependency_links to camera_oneday_msgs.egg-info/dependency_links.txt
+writing top-level names to camera_oneday_msgs.egg-info/top_level.txt
+reading manifest file 'camera_oneday_msgs.egg-info/SOURCES.txt'
+writing manifest file 'camera_oneday_msgs.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_camera_oneday_msgs_egg
+-- Install configuration: ""
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/ament_index/resource_index/rosidl_interfaces/camera_oneday_msgs
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/record.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/capture.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__struct.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__functions.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__type_support.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__functions.c
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__functions.c
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__struct.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__type_support.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__functions.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/msg
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/msg/rosidl_generator_c__visibility_control.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/environment/library_path.sh
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/environment/library_path.dsv
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_generator_c.so
+-- Set runtime path of "/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_generator_c.so" to ""
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/msg
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_fastrtps_c.so
+-- Set runtime path of "/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__rosidl_typesupport_introspection_c.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__rosidl_typesupport_introspection_c.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__type_support.c
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__type_support.c
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/msg
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_introspection_c.so
+-- Set runtime path of "/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_introspection_c.so" to ""
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_c.so
+-- Set runtime path of "/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_c.so" to ""
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/record.hpp
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/capture.hpp
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__builder.hpp
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__builder.hpp
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__struct.hpp
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__traits.hpp
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__struct.hpp
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__traits.hpp
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/dds_fastrtps
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__rosidl_typesupport_fastrtps_cpp.hpp
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/msg
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_fastrtps_cpp.so
+-- Set runtime path of "/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv
+-- Up-to-date: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/capture__type_support.cpp
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/include/camera_oneday_msgs/camera_oneday_msgs/srv/detail/record__type_support.cpp
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_introspection_cpp.so
+-- Set runtime path of "/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_cpp.so
+-- Set runtime path of "/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_typesupport_cpp.so" to ""
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/environment/pythonpath.sh
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/environment/pythonpath.dsv
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs-0.0.0-py3.10.egg-info
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs-0.0.0-py3.10.egg-info/top_level.txt
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/_camera_oneday_msgs_s.ep.rosidl_typesupport_introspection_c.c
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/_camera_oneday_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/libcamera_oneday_msgs__rosidl_generator_py.so
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/srv
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/srv/_record.py
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/srv/_capture_s.c
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/srv/_capture.py
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/srv/__init__.py
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/srv/_record_s.c
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/__init__.py
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/_camera_oneday_msgs_s.ep.rosidl_typesupport_c.c
+Listing '/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs'...
+Compiling '/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/__init__.py'...
+Listing '/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/srv'...
+Compiling '/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/srv/__init__.py'...
+Compiling '/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/srv/_capture.py'...
+Compiling '/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/srv/_record.py'...
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Set runtime path of "/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/local/lib/python3.10/dist-packages/camera_oneday_msgs/camera_oneday_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_generator_py.so
+-- Set runtime path of "/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/lib/libcamera_oneday_msgs__rosidl_generator_py.so" to ""
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/srv/Capture.idl
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/srv/Record.idl
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/srv/Capture.srv
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/srv/Capture_Request.msg
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/srv/Capture_Response.msg
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/srv/Record.srv
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/srv/Record_Request.msg
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/srv/Record_Response.msg
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/ament_index/resource_index/package_run_dependencies/camera_oneday_msgs
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/ament_index/resource_index/parent_prefix_path/camera_oneday_msgs
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/environment/ament_prefix_path.sh
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/environment/ament_prefix_path.dsv
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/environment/path.sh
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/environment/path.dsv
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/local_setup.bash
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/local_setup.sh
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/local_setup.zsh
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/local_setup.dsv
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/package.dsv
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/ament_index/resource_index/packages/camera_oneday_msgs
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/export_camera_oneday_msgs__rosidl_generator_cExport.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/export_camera_oneday_msgs__rosidl_generator_cExport-noconfig.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/export_camera_oneday_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/export_camera_oneday_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/camera_oneday_msgs__rosidl_typesupport_introspection_cExport.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/camera_oneday_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/camera_oneday_msgs__rosidl_typesupport_cExport.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/camera_oneday_msgs__rosidl_typesupport_cExport-noconfig.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/export_camera_oneday_msgs__rosidl_generator_cppExport.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/export_camera_oneday_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/export_camera_oneday_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/camera_oneday_msgs__rosidl_typesupport_introspection_cppExport.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/camera_oneday_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/camera_oneday_msgs__rosidl_typesupport_cppExport.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/camera_oneday_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/export_camera_oneday_msgs__rosidl_generator_pyExport.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/export_camera_oneday_msgs__rosidl_generator_pyExport-noconfig.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/rosidl_cmake-extras.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/camera_oneday_msgsConfig.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/cmake/camera_oneday_msgsConfig-version.cmake
+-- Installing: /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday_msgs/share/camera_oneday_msgs/package.xml

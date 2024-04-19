@@ -1,0 +1,52 @@
+[0.658s] Invoking command in '/home/wook/amr_ws/camera_with_ROS2/src/camera_oneday': PYTHONPATH=/home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/prefix_override:/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_oneday build --build-base /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build install --record /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/install.log --single-version-externally-managed install_data
+[0.822s] running egg_info
+[0.834s] writing ../../build/camera_oneday/camera_oneday.egg-info/PKG-INFO
+[0.834s] writing dependency_links to ../../build/camera_oneday/camera_oneday.egg-info/dependency_links.txt
+[0.834s] writing entry points to ../../build/camera_oneday/camera_oneday.egg-info/entry_points.txt
+[0.834s] writing requirements to ../../build/camera_oneday/camera_oneday.egg-info/requires.txt
+[0.834s] writing top-level names to ../../build/camera_oneday/camera_oneday.egg-info/top_level.txt
+[0.861s] reading manifest file '../../build/camera_oneday/camera_oneday.egg-info/SOURCES.txt'
+[0.861s] writing manifest file '../../build/camera_oneday/camera_oneday.egg-info/SOURCES.txt'
+[0.861s] running build
+[0.861s] running build_py
+[0.862s] copying camera_oneday/combined_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.862s] copying camera_oneday/green_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.862s] copying camera_oneday/optical_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.862s] copying camera_oneday/binary_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.862s] copying camera_oneday/img_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.862s] copying camera_oneday/red_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.862s] copying camera_oneday/blue_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.862s] copying camera_oneday/__init__.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.862s] copying camera_oneday/canny_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.862s] copying camera_oneday/blur_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.862s] copying camera_oneday/cartoon_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.862s] copying camera_oneday/camera_server.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.863s] copying camera_oneday/edge_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.863s] copying camera_oneday/control_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+[0.863s] running install
+[0.867s] running install_lib
+[0.879s] running install_data
+[0.879s] copying resource/camera_oneday -> /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/ament_index/resource_index/packages
+[0.879s] copying package.xml -> /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/camera_oneday
+[0.879s] copying launch/camera.launch.py -> /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/camera_oneday/launch
+[0.879s] copying param/binary.yaml -> /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/camera_oneday/param
+[0.879s] copying param/filter.yaml -> /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/camera_oneday/param
+[0.879s] copying param/size.yaml -> /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/camera_oneday/param
+[0.879s] running install_egg_info
+[0.892s] Copying ../../build/camera_oneday/camera_oneday.egg-info to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/python3.10/site-packages/camera_oneday-0.0.0-py3.10.egg-info
+[0.893s] running install_scripts
+[1.000s] Installing binary_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.000s] Installing blue_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.000s] Installing blur_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.000s] Installing camera_server script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.000s] Installing canny_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.000s] Installing cartoon_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.000s] Installing combined_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.000s] Installing control_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.001s] Installing edge_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.001s] Installing green_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.001s] Installing img_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.001s] Installing optical_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.001s] Installing red_publisher script to /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/camera_oneday
+[1.001s] writing list of installed files to '/home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/install.log'
+[1.019s] Invoked command in '/home/wook/amr_ws/camera_with_ROS2/src/camera_oneday' returned '0': PYTHONPATH=/home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/prefix_override:/home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_oneday build --build-base /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build install --record /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/install.log --single-version-externally-managed install_data

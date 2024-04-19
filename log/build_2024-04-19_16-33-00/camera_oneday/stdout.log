@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/camera_oneday/camera_oneday.egg-info
+writing ../../build/camera_oneday/camera_oneday.egg-info/PKG-INFO
+writing dependency_links to ../../build/camera_oneday/camera_oneday.egg-info/dependency_links.txt
+writing entry points to ../../build/camera_oneday/camera_oneday.egg-info/entry_points.txt
+writing requirements to ../../build/camera_oneday/camera_oneday.egg-info/requires.txt
+writing top-level names to ../../build/camera_oneday/camera_oneday.egg-info/top_level.txt
+writing manifest file '../../build/camera_oneday/camera_oneday.egg-info/SOURCES.txt'
+reading manifest file '../../build/camera_oneday/camera_oneday.egg-info/SOURCES.txt'
+writing manifest file '../../build/camera_oneday/camera_oneday.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build
+creating /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib
+creating /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+copying camera_oneday/img_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+copying camera_oneday/__init__.py -> /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday
+running install
+running install_lib
+creating /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/python3.10/site-packages/camera_oneday
+copying /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday/img_publisher.py -> /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/python3.10/site-packages/camera_oneday
+copying /home/wook/amr_ws/camera_with_ROS2/build/camera_oneday/build/lib/camera_oneday/__init__.py -> /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/python3.10/site-packages/camera_oneday
+byte-compiling /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/python3.10/site-packages/camera_oneday/img_publisher.py to img_publisher.cpython-310.pyc
+byte-compiling /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/lib/python3.10/site-packages/camera_oneday/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/ament_index
+creating /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/ament_index/resource_index
+creating /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/ament_index/resource_index/packages
+copying resource/camera_oneday -> /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/ament_index/resource_index/packages
+copying package.xml -> /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/camera_oneday
+creating /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/camera_oneday/launch
+creating /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/camera_oneday/param
+creating /home/wook/amr_ws/camera_with_ROS2/install/camera_oneday/share/camera_oneday/resource
